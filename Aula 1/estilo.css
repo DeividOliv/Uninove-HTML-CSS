@@ -1,0 +1,16 @@
+body
+{
+    background-color: #ccc;
+}
+h1{
+    color:#00f;
+    background-color:#00ff00;
+    margin-left: 30pix;
+}
+
+p
+{
+    color:rgb(255, 6, 6);
+    color:rgba(10, 36, 18, 0.533);
+    color:rgb(16, 146, 103)
+}

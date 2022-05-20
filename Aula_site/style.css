@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:rgb(46, 34, 34)
+}
+
+#container
+{
+    margin: 1em auto;
+    width: 650px;
+    background-color: aliceblue;
+}
+
+#header
+{
+    background-color: rgb(65, 88, 88);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#mainnav
+{
+    background-color: rgb(18, 36, 51);
+}
+
+#menu
+{
+    background-color: white
+    float:rigth;
+    width: 20px;
+}
+
+#contents
+{
+    float: left;
+    width: 77px;
+    background-color: azure;
+    margin: 0 0 0 20px;
+}
+
+#footer
+{
+    clear: both;
+    background-color: aqua;
+}

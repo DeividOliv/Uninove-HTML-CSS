@@ -1,0 +1,19 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+}
+h2{
+    color: green;
+}
+p{
+    color:blue;
+}
+#s3{
+    color: black;
+}
+.fundo{
+    background-color:aqua;
+}
+.textoazul{
+    background-color: aqua;
+}
